@@ -33,5 +33,9 @@ After the total was take of each a percentage of successful, failed, and cancele
     2. A project is most lieekly to fail if the goal is $45,000 and over.
     
 - What are some limitations of this dataset?
-
+    This data set does not take into account any of the external factors that were going on at the time. Things such as recessions or pandemics may affect data like this and         skew it. After the COIVD pandemic the play industry is probably very different and all the data in this set is from before that time so it would be very helpful to get some     more recent data.I also think it would be good to get a better understanding of the genre of the play to see if a thriller would do better/ worse than a comedy. The type of     play can have a large affect on how many people would come to see it. Finally, this data set only looks at Kickstarter data. It would be nice to look at different platforms     that can be used to fund a play to see if there is benefit to using one over the other.
+    
 - What are some other possible tables and/or graphs that we could create?
+    1. I would like to look at the different success rates base on different countries to see if there is a benefit to launching in one country over another. This could be done        with a pivot table and then a stacked column graph based on country and then count of successful, failed, and canceled
+    2. I would like to look at the success/ fail rates of musicals vs plays as they are in the same parent category to see if there is a favorite. This could be done by doing          COUNTIFS formula to determine the count of success or fail in each sub category.
+    3. I would like to look at the average donations based on the goal set to see if the goal plays any affect on the amount people are willing to donate.This could be done by          using a VLOOKUP formula.
