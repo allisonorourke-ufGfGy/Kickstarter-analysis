@@ -2,7 +2,8 @@
 
 ## Overview of Project
 
-### Purpose:The purpose of this experiment is to help a prospective client to analyze trends from Kickstarter data to understand different variables that might affect the success of her project.
+### Purpose
+#### The purpose of this experiment is to help a prospective client to analyze trends from Kickstarter data to understand different variables that might affect the success of her project.
 
 ## Analysis and Challenges
 
