@@ -20,14 +20,18 @@ After the total was take of each a percentage of successful, failed, and cancele
 ![Outcomes Based on Goal](https://github.com/allisonorourke-ufGfGy/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-#### I struggled a bit with understanding the 
+#### I struggled a bit with understanding the COUNTIFS formula. I struggled with understanding which columns to assign to each conditional. This was then solved by watching Youtube videos on this formula and trouble shooting. I also was having issues understanding Github and how to upload a Readme file but that was overcome by using the information in the Slack, watching Youtube, and going to office hours.
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-    
+    1. May and June are the best months to launch a campaign to have the highest chance of success.
+    2. December is the worst months to launch a campaign because it has a low rate of success and an almost equal rate of failed.
 
 - What can you conclude about the Outcomes based on Goals?
-
+    1. A project is most likely to succeed if the goal is under $15,000 or $35,000-$40,000
+    2. A project is most lieekly to fail if the goal is $45,000 and over.
+    
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
