@@ -1,5 +1,23 @@
-# An Analysis of Kickstarter Cmapaigns
-GWU Bootcamp module 1
-![Outcomes based on launch date](path/to/Outcomes based on launch date.png)
-![Parent Category Outcomes](https://github.com/allisonorourke-ufGfGy/Kickstarter-analysis/blob/main/Outcomes%20based%20on%20launch%20date.png)
-Reccomedations: Keep the goal of your project between $3,000 and $5,000. Launch the campaing between May and June. 
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose:The purpose of this experiment is to help a prospective client to analyze trends from Kickstarter data to understand different variables that might affect the success of her project.
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
