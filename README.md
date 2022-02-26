@@ -12,9 +12,13 @@
 ![Theater Outcomes based on Laucnh Dates](https://github.com/allisonorourke-ufGfGy/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-#### 
+####  I also wanted to look at that outcomes of different campaings based on their monetary goal. This was accomplished through the COUNTIFS function in excel. This was applied to a range of goals that were $4,999 apart. I then also broke it doen by the number successful, failed, and canceled. This was done through the following formula as one of the examples to count the number of canceled plays whose goal was $5000 to $9999.
+=COUNTIFS(Kickstarter!$D:$D, ">=5000",Kickstarter!$F:$F, "canceled", Kickstarter!$D:$D, "<=9999", Kickstarter!$R:$R, "plays")
+After the total was take of each a percentage of successful, failed, and canceled was calculated for each goal range. This was then graphed into the following table. This shows that a project is more likely to succeed if the goal is under $15,000 or $35,000-$40,000. Anything not in that rate is more likely to fail than to succeed.
+![Outcomes Based on Goal](https://github.com/allisonorourke-ufGfGy/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
-####
+#### I struggled a bit with understanding the 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
